@@ -4,6 +4,14 @@ A modern, responsive, and visually captivating landing page developed for **Nexo
 
 ---
 
+## 🌐 Live Demos & 1-Click Import
+
+- 🚀 **Live Demo (GitHub Pages):** [https://chahatmodi18.github.io/nexora/](https://chahatmodi18.github.io/nexora/)
+- ⚡ **Deploy to Vercel (Import from GitHub):** [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FChahatModi18%2Fnexora)
+- 💎 **Deploy to Netlify (Import from GitHub):** [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2FChahatModi18%2Fnexora)
+
+---
+
 ## 🎯 Project Aim
 
 > **Aim:** Develop a responsive landing page for a startup/business using Bootstrap and AI-assisted UI design tools.
@@ -64,9 +72,8 @@ Enhance the responsive design of the Nexora landing page for mobile viewports (d
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started Locally
 
-### Run Locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/ChahatModi18/nexora.git
@@ -75,24 +82,7 @@ Enhance the responsive design of the Nexora landing page for mobile viewports (d
    ```bash
    cd nexora
    ```
-3. Open `index.html` directly in any web browser, or launch using VS Code Live Server:
-   ```bash
-   npx serve .
-   ```
-
----
-
-## 🌐 Deployment Guide
-
-### Deploying to Vercel:
-1. Install Vercel CLI: `npm i -g vercel` (or visit [vercel.com](https://vercel.com)).
-2. Import the GitHub repository `ChahatModi18/nexora`.
-3. Keep default settings (Static HTML) and click **Deploy**.
-
-### Deploying to Netlify:
-1. Log in to [Netlify](https://www.netlify.com/).
-2. Select **Add new site** > **Import an existing project** > **GitHub**.
-3. Choose `ChahatModi18/nexora` and deploy the main branch.
+3. Open `index.html` directly in any web browser.
 
 ---
 
